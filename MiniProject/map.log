@@ -1,0 +1,41 @@
+2019-01-17-main-INFO -com.cg.miniproject.dao.LapDaoImpl:in add Customer method
+2019-01-17-main-INFO -com.cg.miniproject.dao.LapDaoImpl:connection object created
+2019-01-17-main-DEBUG-com.cg.miniproject.dao.LapDaoImpl:statement object created
+2019-01-17-main-INFO -com.cg.miniproject.dao.LapDaoImpl:in finally block
+2019-01-17-main-INFO -com.cg.miniproject.dao.LapDaoImpl:in add Customer method
+2019-01-17-main-INFO -com.cg.miniproject.dao.LapDaoImpl:connection object created
+2019-01-17-main-DEBUG-com.cg.miniproject.dao.LapDaoImpl:statement object created
+2019-01-17-main-INFO -com.cg.miniproject.dao.LapDaoImpl:in add Customer method
+2019-01-17-main-INFO -com.cg.miniproject.dao.LapDaoImpl:connection object created
+2019-01-17-main-DEBUG-com.cg.miniproject.dao.LapDaoImpl:statement object created
+2019-01-17-main-ERROR-com.cg.miniproject.dao.LapDaoImpl:ORA-12899: value too large for column "SYSTEM"."LOANPROGRAMSOFFERED"."PROGRAMNAME" (actual: 9, maximum: 5)
+
+2019-01-17-main-INFO -com.cg.miniproject.dao.LapDaoImpl:in add Customer method
+2019-01-17-main-INFO -com.cg.miniproject.dao.LapDaoImpl:connection object created
+2019-01-17-main-DEBUG-com.cg.miniproject.dao.LapDaoImpl:statement object created
+2019-01-17-main-INFO -com.cg.miniproject.dao.LapDaoImpl:execute update called
+2019-01-17-main-INFO -com.cg.miniproject.dao.LapDaoImpl:in add Customer method
+2019-01-17-main-INFO -com.cg.miniproject.dao.LapDaoImpl:connection object created
+2019-01-17-main-DEBUG-com.cg.miniproject.dao.LapDaoImpl:statement object created
+2019-01-17-main-INFO -com.cg.miniproject.dao.LapDaoImpl:execute update called
+2019-01-18-main-INFO -com.cg.miniproject.dao.LapDaoImpl:in add Customer method
+2019-01-18-main-INFO -com.cg.miniproject.dao.LapDaoImpl:connection object created
+2019-01-18-main-DEBUG-com.cg.miniproject.dao.LapDaoImpl:statement object created
+2019-01-18-main-INFO -com.cg.miniproject.dao.LapDaoImpl:in add Customer method
+2019-01-18-main-INFO -com.cg.miniproject.dao.LapDaoImpl:connection object created
+2019-01-18-main-DEBUG-com.cg.miniproject.dao.LapDaoImpl:statement object created
+2019-01-18-main-INFO -com.cg.miniproject.dao.LapDaoImpl:execute update called
+2019-01-19-main-INFO -com.cg.miniproject.dao.LapDaoImpl:in add Customer method
+2019-01-19-main-INFO -com.cg.miniproject.dao.LapDaoImpl:connection object created
+2019-01-19-main-DEBUG-com.cg.miniproject.dao.LapDaoImpl:statement object created
+2019-01-19-main-INFO -com.cg.miniproject.dao.LapDaoImpl:in add Customer method
+2019-01-19-main-INFO -com.cg.miniproject.dao.LapDaoImpl:connection object created
+2019-01-19-main-DEBUG-com.cg.miniproject.dao.LapDaoImpl:statement object created
+2019-01-19-main-INFO -com.cg.miniproject.dao.LapDaoImpl:execute update called
+2019-01-19-main-INFO -com.cg.miniproject.dao.LapDaoImpl:in add Customer method
+2019-01-19-main-INFO -com.cg.miniproject.dao.LapDaoImpl:connection object created
+2019-01-19-main-DEBUG-com.cg.miniproject.dao.LapDaoImpl:statement object created
+2019-01-19-main-INFO -com.cg.miniproject.dao.LapDaoImpl:execute update called
+2019-01-19-main-INFO -com.cg.miniproject.dao.LapDaoImpl:in add Customer method
+2019-01-19-main-INFO -com.cg.miniproject.dao.LapDaoImpl:connection object created
+2019-01-19-main-DEBUG-com.cg.miniproject.dao.LapDaoImpl:statement object created
